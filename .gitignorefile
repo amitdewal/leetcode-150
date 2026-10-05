@@ -1,0 +1,56 @@
+# ==========================================
+# Java / Compiled Code
+# ==========================================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# ==========================================
+# Eclipse IDE Specific
+# ==========================================
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.settings/
+.loadpath
+.factorypath
+.recommenders/
+
+# Eclipse Core & JDT (Java Development Tools)
+.project
+.classpath
+
+# External tool builders & launch configs
+.externalToolBuilders/
+*.launch
+
+# ==========================================
+# Build Tools (Optional but Recommended)
+# ==========================================
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini

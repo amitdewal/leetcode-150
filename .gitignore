@@ -3,17 +3,20 @@
 # ==========================================
 *.class
 
+# ==========================================
 # Logs
+# ==========================================
 *.log
 
+# ==========================================
 # Java packaged files
+# ==========================================
 *.jar
 *.war
 *.ear
 
 # JVM crash logs
 hs_err_pid*
-
 
 # ==========================================
 # Eclipse
@@ -22,8 +25,6 @@ hs_err_pid*
 .settings/
 .project
 .classpath
-
-# Eclipse generated/build files
 bin/
 tmp/
 
@@ -35,11 +36,9 @@ tmp/
 # Eclipse launch/config files
 *.launch
 
-# Other Eclipse files
 .loadpath
 .factorypath
 .recommenders/
-
 
 # ==========================================
 # Maven
@@ -51,7 +50,6 @@ target/
 # ==========================================
 .gradle/
 build/
-
 
 # ==========================================
 # Operating System

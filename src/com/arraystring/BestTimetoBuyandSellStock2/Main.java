@@ -3,8 +3,6 @@
  */
 package com.arraystring.BestTimetoBuyandSellStock2;
 
-import java.util.Iterator;
-
 /**
  * 
  */

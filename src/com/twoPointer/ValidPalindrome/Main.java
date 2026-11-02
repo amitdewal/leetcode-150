@@ -1,4 +1,4 @@
-package com.arraystring.twoPointer.ValidPalindrome;
+package com.twoPointer.ValidPalindrome;
 
 public class Main {
 
